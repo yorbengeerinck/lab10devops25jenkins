@@ -1,2 +1,2 @@
-print("Bouwen applicatie..."
+print("Bouwen applicatie...")
 # Syntax error: haakje vergeten
